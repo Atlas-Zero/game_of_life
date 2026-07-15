@@ -1,1 +1,1 @@
-[Link](atlas-zero.github.io/game_of_life/)
+[Link](https://atlas-zero.github.io/game_of_life/)
